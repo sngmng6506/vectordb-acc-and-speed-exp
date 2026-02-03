@@ -1,0 +1,1962 @@
+{
+  "collection_0001_1000pages": {
+    "num_documents": 1000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 18.474260007496923,
+        "avg_search_time_ms": 2.8038999997079372,
+        "avg_embedding_time_ms": 15.66986000398174
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.313720006495714,
+        "avg_search_time_ms": 2.324980008415878,
+        "avg_embedding_time_ms": 14.988360006827861
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.557720016222447,
+        "avg_search_time_ms": 2.5579999899491668,
+        "avg_embedding_time_ms": 17.999240022618324
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.610179993789643,
+        "avg_search_time_ms": 2.391940006054938,
+        "avg_embedding_time_ms": 15.21795999724418
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.40969999320805,
+        "avg_search_time_ms": 2.383160009048879,
+        "avg_embedding_time_ms": 16.026299982331693
+      }
+    ]
+  },
+  "collection_0002_2000pages": {
+    "num_documents": 2000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.14823999395594,
+        "avg_search_time_ms": 2.470999991055578,
+        "avg_embedding_time_ms": 16.676920000463724
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.330100014805794,
+        "avg_search_time_ms": 2.426160010509193,
+        "avg_embedding_time_ms": 14.903500000946224
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.925420007668436,
+        "avg_search_time_ms": 3.10245999135077,
+        "avg_embedding_time_ms": 14.822640013881028
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.672259979415685,
+        "avg_search_time_ms": 2.9599400004372,
+        "avg_embedding_time_ms": 16.71197998803109
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.92287998041138,
+        "avg_search_time_ms": 2.8747799922712147,
+        "avg_embedding_time_ms": 19.04769998509437
+      }
+    ]
+  },
+  "collection_0003_3000pages": {
+    "num_documents": 3000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.638919982593507,
+        "avg_search_time_ms": 2.751459984574467,
+        "avg_embedding_time_ms": 17.887079995125532
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 20.639279996976256,
+        "avg_search_time_ms": 2.999660011846572,
+        "avg_embedding_time_ms": 17.63911999296397
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.319980019237846,
+        "avg_search_time_ms": 3.0023800092749298,
+        "avg_embedding_time_ms": 14.317240007221699
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.911359993740916,
+        "avg_search_time_ms": 3.4288999857380986,
+        "avg_embedding_time_ms": 14.48212000541389
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.12713999627158,
+        "avg_search_time_ms": 3.4710200037807226,
+        "avg_embedding_time_ms": 15.655719989445059
+      }
+    ]
+  },
+  "collection_0004_4000pages": {
+    "num_documents": 4000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.514839980751276,
+        "avg_search_time_ms": 2.996239985805005,
+        "avg_embedding_time_ms": 17.518220003694296
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 20.06345996633172,
+        "avg_search_time_ms": 2.6515399920754135,
+        "avg_embedding_time_ms": 17.41153998300433
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 16.679199994541705,
+        "avg_search_time_ms": 2.418020006734878,
+        "avg_embedding_time_ms": 14.2608999973163
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.9376399978064,
+        "avg_search_time_ms": 3.414680005516857,
+        "avg_embedding_time_ms": 16.522679990157485
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.011640001554042,
+        "avg_search_time_ms": 2.6673999964259565,
+        "avg_embedding_time_ms": 16.34380000177771
+      }
+    ]
+  },
+  "collection_0005_5000pages": {
+    "num_documents": 5000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 21.206699998583645,
+        "avg_search_time_ms": 2.903320000041276,
+        "avg_embedding_time_ms": 18.3029199950397
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.355660013388842,
+        "avg_search_time_ms": 2.6159600005485117,
+        "avg_embedding_time_ms": 16.739400010555983
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.28339999774471,
+        "avg_search_time_ms": 3.1978399958461523,
+        "avg_embedding_time_ms": 15.08513999870047
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.438380002975464,
+        "avg_search_time_ms": 3.551680000964552,
+        "avg_embedding_time_ms": 15.886240010149777
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.17100000428036,
+        "avg_search_time_ms": 3.2013599993661046,
+        "avg_embedding_time_ms": 15.969340002629906
+      }
+    ]
+  },
+  "collection_0008_8000pages": {
+    "num_documents": 7994,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 23.99965999647975,
+        "avg_search_time_ms": 3.216819989029318,
+        "avg_embedding_time_ms": 20.782260003034025
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 22.37135999603197,
+        "avg_search_time_ms": 3.0991600011475384,
+        "avg_embedding_time_ms": 19.271859992295504
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.28824001038447,
+        "avg_search_time_ms": 2.6304399827495217,
+        "avg_embedding_time_ms": 14.657400024589151
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 20.440980000421405,
+        "avg_search_time_ms": 3.3901399932801723,
+        "avg_embedding_time_ms": 17.050520004704595
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.27378000598401,
+        "avg_search_time_ms": 2.657540002837777,
+        "avg_embedding_time_ms": 15.615900000557303
+      }
+    ]
+  },
+  "collection_0009_9000pages": {
+    "num_documents": 8992,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.381899992004037,
+        "avg_search_time_ms": 2.5905199931003153,
+        "avg_embedding_time_ms": 16.791059996467084
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 20.661359990481287,
+        "avg_search_time_ms": 3.3529600012116134,
+        "avg_embedding_time_ms": 17.307899985462427
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.22980001056567,
+        "avg_search_time_ms": 3.472160012461245,
+        "avg_embedding_time_ms": 16.757219994906336
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 21.252780000213534,
+        "avg_search_time_ms": 2.9403400025330484,
+        "avg_embedding_time_ms": 18.312039994634688
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.56719999341294,
+        "avg_search_time_ms": 2.997000003233552,
+        "avg_embedding_time_ms": 15.569799987133592
+      }
+    ]
+  },
+  "collection_0010_10000pages": {
+    "num_documents": 9992,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.379859999753535,
+        "avg_search_time_ms": 3.066660021431744,
+        "avg_embedding_time_ms": 16.312699986156076
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 20.944699994288385,
+        "avg_search_time_ms": 2.6815999881364405,
+        "avg_embedding_time_ms": 18.262800003867596
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.263580022379756,
+        "avg_search_time_ms": 2.7167199994437397,
+        "avg_embedding_time_ms": 16.546640021260828
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.176659976597875,
+        "avg_search_time_ms": 2.7531999861821532,
+        "avg_embedding_time_ms": 15.423079987522215
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.91866001812741,
+        "avg_search_time_ms": 2.8318600030615926,
+        "avg_embedding_time_ms": 19.086260010953993
+      }
+    ]
+  },
+  "collection_0012_12000pages": {
+    "num_documents": 12000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.49585999827832,
+        "avg_search_time_ms": 2.7130199945531785,
+        "avg_embedding_time_ms": 16.782540001440793
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 20.176880015060306,
+        "avg_search_time_ms": 3.5539199830964208,
+        "avg_embedding_time_ms": 16.622560028918087
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.479680001270026,
+        "avg_search_time_ms": 2.654139988590032,
+        "avg_embedding_time_ms": 14.825260010547936
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.456399999558926,
+        "avg_search_time_ms": 3.006299992557615,
+        "avg_embedding_time_ms": 15.449780004564673
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.27061999356374,
+        "avg_search_time_ms": 2.7564600110054016,
+        "avg_embedding_time_ms": 15.513820003252476
+      }
+    ]
+  },
+  "collection_0013_13000pages": {
+    "num_documents": 13000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.677799999248236,
+        "avg_search_time_ms": 2.9908199911005795,
+        "avg_embedding_time_ms": 17.68646000418812
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.683560006320477,
+        "avg_search_time_ms": 3.754699998535216,
+        "avg_embedding_time_ms": 14.928340003825724
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.501699994318187,
+        "avg_search_time_ms": 2.5273799896240234,
+        "avg_embedding_time_ms": 14.973980002105236
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.383699992205948,
+        "avg_search_time_ms": 2.6652200031094253,
+        "avg_embedding_time_ms": 14.718119986355305
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 17.932379990816116,
+        "avg_search_time_ms": 2.666119986679405,
+        "avg_embedding_time_ms": 15.265840000938624
+      }
+    ]
+  },
+  "collection_0014_14000pages": {
+    "num_documents": 14000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 21.67747998610139,
+        "avg_search_time_ms": 3.0226399889215827,
+        "avg_embedding_time_ms": 18.65441999398172
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 21.57122000353411,
+        "avg_search_time_ms": 4.025459999684244,
+        "avg_embedding_time_ms": 17.545219999738038
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.55800000578165,
+        "avg_search_time_ms": 2.578160003758967,
+        "avg_embedding_time_ms": 16.979499999433756
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.962479998823255,
+        "avg_search_time_ms": 2.7689000009559095,
+        "avg_embedding_time_ms": 15.193199994973838
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.334879993926734,
+        "avg_search_time_ms": 2.9340799897909164,
+        "avg_embedding_time_ms": 15.40034000063315
+      }
+    ]
+  },
+  "collection_0015_15000pages": {
+    "num_documents": 15000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.040860002860427,
+        "avg_search_time_ms": 3.118619997985661,
+        "avg_embedding_time_ms": 15.92188000213355
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.796340016182512,
+        "avg_search_time_ms": 2.9777000192552805,
+        "avg_embedding_time_ms": 16.818179993424565
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.73594001121819,
+        "avg_search_time_ms": 2.976419997867197,
+        "avg_embedding_time_ms": 17.759160010609776
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.65432001557201,
+        "avg_search_time_ms": 2.738159999717027,
+        "avg_embedding_time_ms": 14.915720012504607
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.51767998887226,
+        "avg_search_time_ms": 2.661279996391386,
+        "avg_embedding_time_ms": 15.855999989435078
+      }
+    ]
+  },
+  "collection_0016_16000pages": {
+    "num_documents": 16000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 21.221759996842593,
+        "avg_search_time_ms": 2.7902600006200373,
+        "avg_embedding_time_ms": 18.431139993481338
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.191139983013272,
+        "avg_search_time_ms": 2.7253199834376574,
+        "avg_embedding_time_ms": 16.465439996682107
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.68413999909535,
+        "avg_search_time_ms": 2.8164800023660064,
+        "avg_embedding_time_ms": 15.867339994292704
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.08337999973446,
+        "avg_search_time_ms": 2.8187799965962768,
+        "avg_embedding_time_ms": 15.264019998721778
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.479160010814667,
+        "avg_search_time_ms": 2.8301000013016164,
+        "avg_embedding_time_ms": 16.648680006619543
+      }
+    ]
+  },
+  "collection_0018_17000pages": {
+    "num_documents": 17000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 21.617600007448345,
+        "avg_search_time_ms": 3.0897000106051564,
+        "avg_embedding_time_ms": 18.527460005134344
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.57829999551177,
+        "avg_search_time_ms": 2.5528599857352674,
+        "avg_embedding_time_ms": 15.025140007492155
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 22.220920003019273,
+        "avg_search_time_ms": 3.215140022803098,
+        "avg_embedding_time_ms": 19.005479977931827
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.14170000143349,
+        "avg_search_time_ms": 3.122200001962483,
+        "avg_embedding_time_ms": 15.019000007305294
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.15925999544561,
+        "avg_search_time_ms": 2.6256600045599043,
+        "avg_embedding_time_ms": 15.533219987992197
+      }
+    ]
+  },
+  "collection_0019_18000pages": {
+    "num_documents": 18000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.134919997304678,
+        "avg_search_time_ms": 2.955360012128949,
+        "avg_embedding_time_ms": 16.179219994228333
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.05136000039056,
+        "avg_search_time_ms": 3.3668599906377494,
+        "avg_embedding_time_ms": 14.683860004879534
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.651020004879683,
+        "avg_search_time_ms": 3.191580018028617,
+        "avg_embedding_time_ms": 17.45907999575138
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 21.003539999946952,
+        "avg_search_time_ms": 3.7208800087682903,
+        "avg_embedding_time_ms": 17.282099986914545
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.466660008765757,
+        "avg_search_time_ms": 3.1550400075502694,
+        "avg_embedding_time_ms": 16.311140009202063
+      }
+    ]
+  },
+  "collection_0020_19000pages": {
+    "num_documents": 19000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.460599986836314,
+        "avg_search_time_ms": 3.489339991938323,
+        "avg_embedding_time_ms": 16.970939992461354
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.760939989238977,
+        "avg_search_time_ms": 2.7228199993260205,
+        "avg_embedding_time_ms": 15.037799999117851
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.489119991660118,
+        "avg_search_time_ms": 2.643299987539649,
+        "avg_embedding_time_ms": 14.845320000313222
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 22.489900013897568,
+        "avg_search_time_ms": 3.8347799913026392,
+        "avg_embedding_time_ms": 18.654620018787682
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 22.54034000216052,
+        "avg_search_time_ms": 3.239319985732436,
+        "avg_embedding_time_ms": 19.300480012316257
+      }
+    ]
+  },
+  "collection_0021_20000pages": {
+    "num_documents": 20000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.45822002692148,
+        "avg_search_time_ms": 3.032239992171526,
+        "avg_embedding_time_ms": 17.425620032008737
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.71855998178944,
+        "avg_search_time_ms": 2.838999987579882,
+        "avg_embedding_time_ms": 15.879259991925208
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.82048000022769,
+        "avg_search_time_ms": 2.6700199930928648,
+        "avg_embedding_time_ms": 15.150160004850477
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.47198000177741,
+        "avg_search_time_ms": 2.730900002643466,
+        "avg_embedding_time_ms": 15.740739996545017
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.515359995421022,
+        "avg_search_time_ms": 2.7787200058810413,
+        "avg_embedding_time_ms": 16.736359987407923
+      }
+    ]
+  },
+  "collection_0022_21000pages": {
+    "num_documents": 21000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.674340007826686,
+        "avg_search_time_ms": 4.149700014386326,
+        "avg_embedding_time_ms": 16.524319991003722
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.395620001479983,
+        "avg_search_time_ms": 3.0508600058965385,
+        "avg_embedding_time_ms": 14.34444000478834
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.702639987692237,
+        "avg_search_time_ms": 3.4251999924890697,
+        "avg_embedding_time_ms": 14.277120004408062
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 20.264119980856776,
+        "avg_search_time_ms": 3.323740023188293,
+        "avg_embedding_time_ms": 16.940059966873378
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.057480001356453,
+        "avg_search_time_ms": 2.8975000139325857,
+        "avg_embedding_time_ms": 16.15941998315975
+      }
+    ]
+  },
+  "collection_0023_22000pages": {
+    "num_documents": 22000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.23023998970166,
+        "avg_search_time_ms": 2.608199999667704,
+        "avg_embedding_time_ms": 16.621699987445027
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.24616000521928,
+        "avg_search_time_ms": 2.669860003516078,
+        "avg_embedding_time_ms": 15.575979999266565
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.532480009365827,
+        "avg_search_time_ms": 3.202459996100515,
+        "avg_embedding_time_ms": 16.329560009762645
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.552759998943657,
+        "avg_search_time_ms": 2.988679998088628,
+        "avg_embedding_time_ms": 14.563699997961521
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.856999976560473,
+        "avg_search_time_ms": 3.2542599947191775,
+        "avg_embedding_time_ms": 15.602239989675581
+      }
+    ]
+  },
+  "collection_0024_23000pages": {
+    "num_documents": 23000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.922820002306253,
+        "avg_search_time_ms": 2.6546199922449887,
+        "avg_embedding_time_ms": 18.267880007624626
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.842979996930808,
+        "avg_search_time_ms": 2.6860799989663064,
+        "avg_embedding_time_ms": 15.156559995375574
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.74482000619173,
+        "avg_search_time_ms": 2.651480003260076,
+        "avg_embedding_time_ms": 15.093040000647306
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 22.157100006006658,
+        "avg_search_time_ms": 3.4129199804738164,
+        "avg_embedding_time_ms": 18.743600021116436
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.89313998678699,
+        "avg_search_time_ms": 3.4040599945001304,
+        "avg_embedding_time_ms": 18.488660000730306
+      }
+    ]
+  },
+  "collection_0025_24000pages": {
+    "num_documents": 24000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 18.8070600037463,
+        "avg_search_time_ms": 2.6540199876762927,
+        "avg_embedding_time_ms": 16.15274001378566
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.596760008949786,
+        "avg_search_time_ms": 2.645740017760545,
+        "avg_embedding_time_ms": 15.950679988600315
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.787839998025447,
+        "avg_search_time_ms": 2.7487599989399314,
+        "avg_embedding_time_ms": 17.038759996648878
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.082460003439337,
+        "avg_search_time_ms": 2.7280999813228846,
+        "avg_embedding_time_ms": 14.353900018613786
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.839260005392134,
+        "avg_search_time_ms": 2.95760000590235,
+        "avg_embedding_time_ms": 16.881339997053146
+      }
+    ]
+  },
+  "collection_0026_25000pages": {
+    "num_documents": 25000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 27.385080000385642,
+        "avg_search_time_ms": 3.4360400051809847,
+        "avg_embedding_time_ms": 23.94869999261573
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.958720006980002,
+        "avg_search_time_ms": 2.778160001616925,
+        "avg_embedding_time_ms": 17.18026001472026
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.271079985424876,
+        "avg_search_time_ms": 2.8749999939464033,
+        "avg_embedding_time_ms": 15.395780000835657
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 22.917320008855313,
+        "avg_search_time_ms": 3.6916199955157936,
+        "avg_embedding_time_ms": 19.22536001075059
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.092400021851063,
+        "avg_search_time_ms": 3.1115000136196613,
+        "avg_embedding_time_ms": 14.980580005794764
+      }
+    ]
+  },
+  "collection_0027_26000pages": {
+    "num_documents": 26000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.37917999457568,
+        "avg_search_time_ms": 3.095539996866137,
+        "avg_embedding_time_ms": 16.283299995120615
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.168679997324944,
+        "avg_search_time_ms": 2.6582600199617445,
+        "avg_embedding_time_ms": 15.510079974774271
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.939900001510978,
+        "avg_search_time_ms": 2.9523400007747114,
+        "avg_embedding_time_ms": 14.987159997690469
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.087459984235466,
+        "avg_search_time_ms": 3.515839984174818,
+        "avg_embedding_time_ms": 14.57123999716714
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 25.35233999369666,
+        "avg_search_time_ms": 3.3855600166134536,
+        "avg_embedding_time_ms": 21.966279996559024
+      }
+    ]
+  },
+  "collection_0028_27000pages": {
+    "num_documents": 27000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 25.4714599926956,
+        "avg_search_time_ms": 3.9851200068369512,
+        "avg_embedding_time_ms": 21.485799993388355
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.686900020111352,
+        "avg_search_time_ms": 3.1935400213114917,
+        "avg_embedding_time_ms": 15.492759994231164
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.861359988339245,
+        "avg_search_time_ms": 3.6292199976742268,
+        "avg_embedding_time_ms": 17.231599998194724
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.124080007895827,
+        "avg_search_time_ms": 3.562779992353171,
+        "avg_embedding_time_ms": 15.560920012649149
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.67578000528738,
+        "avg_search_time_ms": 2.6438400032930076,
+        "avg_embedding_time_ms": 16.031599999405444
+      }
+    ]
+  },
+  "collection_0029_28000pages": {
+    "num_documents": 28000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 24.215119995642453,
+        "avg_search_time_ms": 3.7757599959149957,
+        "avg_embedding_time_ms": 20.43891999637708
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.303820013534278,
+        "avg_search_time_ms": 2.653260005172342,
+        "avg_embedding_time_ms": 15.650220005773006
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.189519993960857,
+        "avg_search_time_ms": 2.8960600029677153,
+        "avg_embedding_time_ms": 16.293079988099635
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.74010001681745,
+        "avg_search_time_ms": 2.747380011714995,
+        "avg_embedding_time_ms": 14.992320002056658
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.768280011136085,
+        "avg_search_time_ms": 2.8795599937438965,
+        "avg_embedding_time_ms": 15.88848001556471
+      }
+    ]
+  },
+  "collection_0030_29000pages": {
+    "num_documents": 29000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.331359991338104,
+        "avg_search_time_ms": 2.717639983166009,
+        "avg_embedding_time_ms": 16.613320005126297
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.385920020751655,
+        "avg_search_time_ms": 2.767820004373789,
+        "avg_embedding_time_ms": 14.617740013636649
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.098200007807463,
+        "avg_search_time_ms": 3.2144600059837103,
+        "avg_embedding_time_ms": 14.883479999843985
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.324100004974753,
+        "avg_search_time_ms": 3.2509999931789935,
+        "avg_embedding_time_ms": 15.072620008140802
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.29324000282213,
+        "avg_search_time_ms": 2.655499998945743,
+        "avg_embedding_time_ms": 15.63736000098288
+      }
+    ]
+  },
+  "collection_0031_30000pages": {
+    "num_documents": 30000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 25.181659997906536,
+        "avg_search_time_ms": 3.5043399897404015,
+        "avg_embedding_time_ms": 21.676980005577207
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.5954399863258,
+        "avg_search_time_ms": 2.743040001951158,
+        "avg_embedding_time_ms": 14.852079981938004
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.828020012937486,
+        "avg_search_time_ms": 2.8670000028796494,
+        "avg_embedding_time_ms": 16.96054000640288
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.19772000890225,
+        "avg_search_time_ms": 2.828939992468804,
+        "avg_embedding_time_ms": 15.36844001384452
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.296140004415065,
+        "avg_search_time_ms": 3.2428600010462105,
+        "avg_embedding_time_ms": 18.052880000323057
+      }
+    ]
+  },
+  "collection_0032_31000pages": {
+    "num_documents": 31000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 21.916400000918657,
+        "avg_search_time_ms": 3.8386999862268567,
+        "avg_embedding_time_ms": 18.077200010884553
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.534439988434315,
+        "avg_search_time_ms": 2.77975999051705,
+        "avg_embedding_time_ms": 15.754399995785207
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.084079992491752,
+        "avg_search_time_ms": 2.7204600046388805,
+        "avg_embedding_time_ms": 14.363299985416234
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 22.986700001638383,
+        "avg_search_time_ms": 3.8908799993805587,
+        "avg_embedding_time_ms": 19.09526000963524
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.01271999720484,
+        "avg_search_time_ms": 2.7343800058588386,
+        "avg_embedding_time_ms": 15.277979988604784
+      }
+    ]
+  },
+  "collection_0033_32000pages": {
+    "num_documents": 32000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 24.91293998900801,
+        "avg_search_time_ms": 4.385340015869588,
+        "avg_embedding_time_ms": 20.527139981277287
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 20.263580000028014,
+        "avg_search_time_ms": 4.226800019387156,
+        "avg_embedding_time_ms": 16.036339988932014
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.38945999229327,
+        "avg_search_time_ms": 2.8862800099886954,
+        "avg_embedding_time_ms": 17.502859979867935
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 20.592179987579584,
+        "avg_search_time_ms": 3.466499992646277,
+        "avg_embedding_time_ms": 17.12531999219209
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.476339989341795,
+        "avg_search_time_ms": 3.41507998527959,
+        "avg_embedding_time_ms": 16.06078000040725
+      }
+    ]
+  },
+  "collection_0034_33000pages": {
+    "num_documents": 33000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 23.12829999718815,
+        "avg_search_time_ms": 4.733100009616464,
+        "avg_embedding_time_ms": 18.39483998483047
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.972699995152652,
+        "avg_search_time_ms": 3.0037199845537543,
+        "avg_embedding_time_ms": 14.96862000785768
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.746960000135005,
+        "avg_search_time_ms": 2.9475399991497397,
+        "avg_embedding_time_ms": 15.799079998396339
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.366220010444522,
+        "avg_search_time_ms": 2.773379988502711,
+        "avg_embedding_time_ms": 14.592400018591434
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 17.676299973390996,
+        "avg_search_time_ms": 2.571279974654317,
+        "avg_embedding_time_ms": 15.104699996300042
+      }
+    ]
+  },
+  "collection_0035_34000pages": {
+    "num_documents": 34000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.37381997704506,
+        "avg_search_time_ms": 3.001139999832958,
+        "avg_embedding_time_ms": 16.372159984894097
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.748800014145672,
+        "avg_search_time_ms": 3.2813600031659007,
+        "avg_embedding_time_ms": 15.467120008543134
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.749999999068677,
+        "avg_search_time_ms": 2.6432199985720217,
+        "avg_embedding_time_ms": 15.106499998364598
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.81408001156524,
+        "avg_search_time_ms": 2.8798399958759546,
+        "avg_embedding_time_ms": 16.933940013404936
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 17.793659993913025,
+        "avg_search_time_ms": 2.8080400079488754,
+        "avg_embedding_time_ms": 14.985299995169044
+      }
+    ]
+  },
+  "collection_0036_35000pages": {
+    "num_documents": 35000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 24.941480008419603,
+        "avg_search_time_ms": 3.056400013156235,
+        "avg_embedding_time_ms": 21.88477999297902
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.77587999822572,
+        "avg_search_time_ms": 2.724260010290891,
+        "avg_embedding_time_ms": 15.05115998443216
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.868160002399236,
+        "avg_search_time_ms": 2.7050200034864247,
+        "avg_embedding_time_ms": 15.162819996476173
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.417159992735833,
+        "avg_search_time_ms": 3.831420000642538,
+        "avg_embedding_time_ms": 15.585359989199787
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.87129999231547,
+        "avg_search_time_ms": 2.636240003630519,
+        "avg_embedding_time_ms": 16.234719997737557
+      }
+    ]
+  },
+  "collection_0037_36000pages": {
+    "num_documents": 36000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 21.77474000491202,
+        "avg_search_time_ms": 3.728460008278489,
+        "avg_embedding_time_ms": 18.045779992826283
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.622060016263276,
+        "avg_search_time_ms": 3.1066400231793523,
+        "avg_embedding_time_ms": 16.515039990190417
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.135939992498606,
+        "avg_search_time_ms": 2.5549599900841713,
+        "avg_embedding_time_ms": 15.580459998454899
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 21.13157999701798,
+        "avg_search_time_ms": 3.5846999962814152,
+        "avg_embedding_time_ms": 17.546439997386187
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.61041999934241,
+        "avg_search_time_ms": 3.2280599931254983,
+        "avg_embedding_time_ms": 18.381920002866536
+      }
+    ]
+  },
+  "collection_0038_37000pages": {
+    "num_documents": 37000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 23.70309999678284,
+        "avg_search_time_ms": 3.3598599955439568,
+        "avg_embedding_time_ms": 20.342859998345375
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.872440000995994,
+        "avg_search_time_ms": 3.0632599955424666,
+        "avg_embedding_time_ms": 15.808820002712311
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 23.4801999758929,
+        "avg_search_time_ms": 3.33057998213917,
+        "avg_embedding_time_ms": 20.149200002197176
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.41929998388514,
+        "avg_search_time_ms": 3.10040001058951,
+        "avg_embedding_time_ms": 14.318519993685186
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.365599984303117,
+        "avg_search_time_ms": 3.1470999703742564,
+        "avg_embedding_time_ms": 16.218160011339933
+      }
+    ]
+  },
+  "collection_0039_38000pages": {
+    "num_documents": 38000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 22.543419990688562,
+        "avg_search_time_ms": 3.756559977773577,
+        "avg_embedding_time_ms": 18.78636000910774
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.266699986997992,
+        "avg_search_time_ms": 3.502680000383407,
+        "avg_embedding_time_ms": 14.763759984634817
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.27798000210896,
+        "avg_search_time_ms": 2.7151999878697097,
+        "avg_embedding_time_ms": 14.562460011802614
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.424119999166578,
+        "avg_search_time_ms": 3.224359988234937,
+        "avg_embedding_time_ms": 16.199460008647293
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 20.75789999216795,
+        "avg_search_time_ms": 2.6501400163397193,
+        "avg_embedding_time_ms": 18.107439973391593
+      }
+    ]
+  },
+  "collection_0040_39000pages": {
+    "num_documents": 39000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.228479988873005,
+        "avg_search_time_ms": 3.273559990338981,
+        "avg_embedding_time_ms": 16.954639996401966
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.734339997172356,
+        "avg_search_time_ms": 2.9761199839413166,
+        "avg_embedding_time_ms": 15.757880010642111
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.69416000461206,
+        "avg_search_time_ms": 2.709560003131628,
+        "avg_embedding_time_ms": 14.984300010837615
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.471480008680373,
+        "avg_search_time_ms": 2.9969400027766824,
+        "avg_embedding_time_ms": 14.474120002705604
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.203519984148443,
+        "avg_search_time_ms": 3.0969999847002327,
+        "avg_embedding_time_ms": 16.106119996402413
+      }
+    ]
+  },
+  "collection_0041_40000pages": {
+    "num_documents": 40000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 22.063879994675517,
+        "avg_search_time_ms": 3.279380011372268,
+        "avg_embedding_time_ms": 18.784059991594404
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.14948001410812,
+        "avg_search_time_ms": 2.6727600139565766,
+        "avg_embedding_time_ms": 15.47626000829041
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.147020008880645,
+        "avg_search_time_ms": 3.2129199942573905,
+        "avg_embedding_time_ms": 16.933680011425167
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.771920014638454,
+        "avg_search_time_ms": 2.990620001219213,
+        "avg_embedding_time_ms": 14.780960010830313
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.652459993492812,
+        "avg_search_time_ms": 3.895539976656437,
+        "avg_embedding_time_ms": 17.75634001241997
+      }
+    ]
+  },
+  "collection_0060_59000pages": {
+    "num_documents": 40000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 23.881160002201796,
+        "avg_search_time_ms": 3.697619994636625,
+        "avg_embedding_time_ms": 20.183200004976243
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 20.690399990417063,
+        "avg_search_time_ms": 3.8194000022485852,
+        "avg_embedding_time_ms": 16.870679997373372
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.1335599985905,
+        "avg_search_time_ms": 2.5147799984551966,
+        "avg_embedding_time_ms": 16.618479997850955
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 22.472599998582155,
+        "avg_search_time_ms": 4.385900020133704,
+        "avg_embedding_time_ms": 18.053939985111356
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.643260004930198,
+        "avg_search_time_ms": 3.3754600095562637,
+        "avg_embedding_time_ms": 18.267539993394166
+      }
+    ]
+  },
+  "collection_0042_41000pages": {
+    "num_documents": 41000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 24.39567999681458,
+        "avg_search_time_ms": 3.6502999952062964,
+        "avg_embedding_time_ms": 20.745059999171644
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 22.869159991387278,
+        "avg_search_time_ms": 2.980499994009733,
+        "avg_embedding_time_ms": 19.888319994788617
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.1245000208728,
+        "avg_search_time_ms": 2.56438001524657,
+        "avg_embedding_time_ms": 14.559860003646463
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.02998000057414,
+        "avg_search_time_ms": 3.1487800064496696,
+        "avg_embedding_time_ms": 14.880739990621805
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.911559998989105,
+        "avg_search_time_ms": 2.8591600130312145,
+        "avg_embedding_time_ms": 19.052139995619655
+      }
+    ]
+  },
+  "collection_0043_42000pages": {
+    "num_documents": 42000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 26.68751998571679,
+        "avg_search_time_ms": 4.1197799844667315,
+        "avg_embedding_time_ms": 22.56737999850884
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.916060019750148,
+        "avg_search_time_ms": 3.8330400129780173,
+        "avg_embedding_time_ms": 16.082480002660304
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 23.435879999306053,
+        "avg_search_time_ms": 3.414659993723035,
+        "avg_embedding_time_ms": 20.02080000238493
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 20.025339990388602,
+        "avg_search_time_ms": 3.6742799915373325,
+        "avg_embedding_time_ms": 16.350579995196313
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.243359986692667,
+        "avg_search_time_ms": 3.151800006162375,
+        "avg_embedding_time_ms": 18.091199977789074
+      }
+    ]
+  },
+  "collection_0044_43000pages": {
+    "num_documents": 43000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.34311999939382,
+        "avg_search_time_ms": 2.63610000256449,
+        "avg_embedding_time_ms": 16.706680005881935
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.45826000208035,
+        "avg_search_time_ms": 2.6958800037391484,
+        "avg_embedding_time_ms": 15.761999995447695
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 21.494759991765022,
+        "avg_search_time_ms": 3.1599799753166735,
+        "avg_embedding_time_ms": 18.334320012945682
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.732219992671162,
+        "avg_search_time_ms": 3.481920005287975,
+        "avg_embedding_time_ms": 15.24991998448968
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.28138000657782,
+        "avg_search_time_ms": 2.9267600155435503,
+        "avg_embedding_time_ms": 16.35431998874992
+      }
+    ]
+  },
+  "collection_0045_44000pages": {
+    "num_documents": 44000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 22.82598001183942,
+        "avg_search_time_ms": 4.485419997945428,
+        "avg_embedding_time_ms": 18.340140010695904
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 21.744339982979,
+        "avg_search_time_ms": 4.291439976077527,
+        "avg_embedding_time_ms": 17.452480003703386
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.934540009126067,
+        "avg_search_time_ms": 3.3809200045652688,
+        "avg_embedding_time_ms": 16.55334000242874
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.569079984445125,
+        "avg_search_time_ms": 3.391039988491684,
+        "avg_embedding_time_ms": 15.177639992907643
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.274299998302013,
+        "avg_search_time_ms": 2.588339988142252,
+        "avg_embedding_time_ms": 15.685640007723121
+      }
+    ]
+  },
+  "collection_0046_45000pages": {
+    "num_documents": 45000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 22.680739988572896,
+        "avg_search_time_ms": 3.3779399935156107,
+        "avg_embedding_time_ms": 19.302419992163777
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.468039995990694,
+        "avg_search_time_ms": 3.5447599948383868,
+        "avg_embedding_time_ms": 15.922979998867957
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.378660002257675,
+        "avg_search_time_ms": 3.0541200074367225,
+        "avg_embedding_time_ms": 16.324200003873557
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 26.438940013758838,
+        "avg_search_time_ms": 3.4403600031509995,
+        "avg_embedding_time_ms": 22.997900005429983
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.368499993812293,
+        "avg_search_time_ms": 3.039140021428466,
+        "avg_embedding_time_ms": 15.329019981436431
+      }
+    ]
+  },
+  "collection_0047_46000pages": {
+    "num_documents": 46000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 18.64346001530066,
+        "avg_search_time_ms": 2.8705199947580695,
+        "avg_embedding_time_ms": 15.772640018258244
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.520959991496056,
+        "avg_search_time_ms": 3.533520014025271,
+        "avg_embedding_time_ms": 15.986959973815829
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.466059979982674,
+        "avg_search_time_ms": 3.0316600226797163,
+        "avg_embedding_time_ms": 15.434099989943206
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 22.231719980482012,
+        "avg_search_time_ms": 3.439079993404448,
+        "avg_embedding_time_ms": 18.79213999491185
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.08535997988656,
+        "avg_search_time_ms": 2.5026199873536825,
+        "avg_embedding_time_ms": 15.5824999907054
+      }
+    ]
+  },
+  "collection_0048_47000pages": {
+    "num_documents": 47000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 18.534700013697147,
+        "avg_search_time_ms": 2.8425800031982362,
+        "avg_embedding_time_ms": 15.691780007909983
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.829080007504672,
+        "avg_search_time_ms": 3.148840006906539,
+        "avg_embedding_time_ms": 14.679919998161495
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.28631998691708,
+        "avg_search_time_ms": 2.896359981968999,
+        "avg_embedding_time_ms": 17.389620002359152
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.686300003901124,
+        "avg_search_time_ms": 3.536559990607202,
+        "avg_embedding_time_ms": 15.149340010248125
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 20.96414000261575,
+        "avg_search_time_ms": 2.928679995238781,
+        "avg_embedding_time_ms": 18.03504000417888
+      }
+    ]
+  },
+  "collection_0049_48000pages": {
+    "num_documents": 48000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 24.331280018668622,
+        "avg_search_time_ms": 4.88046002574265,
+        "avg_embedding_time_ms": 19.450259988661855
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.95506000239402,
+        "avg_search_time_ms": 4.019899992272258,
+        "avg_embedding_time_ms": 15.934700006619098
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.04466000944376,
+        "avg_search_time_ms": 2.576599980238825,
+        "avg_embedding_time_ms": 17.467720026616007
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 20.656660001259297,
+        "avg_search_time_ms": 3.1263399869203568,
+        "avg_embedding_time_ms": 17.529980011750013
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.17064000060782,
+        "avg_search_time_ms": 2.7106399880722165,
+        "avg_embedding_time_ms": 15.459680010098964
+      }
+    ]
+  },
+  "collection_0050_49000pages": {
+    "num_documents": 49000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.387200009077787,
+        "avg_search_time_ms": 2.725859999191016,
+        "avg_embedding_time_ms": 16.661020007450134
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.32946001086384,
+        "avg_search_time_ms": 3.1584400101564825,
+        "avg_embedding_time_ms": 15.170440007932484
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 20.896740013267845,
+        "avg_search_time_ms": 3.4123599994927645,
+        "avg_embedding_time_ms": 17.483960010576993
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 20.756220002658665,
+        "avg_search_time_ms": 3.9408999960869555,
+        "avg_embedding_time_ms": 16.814760002307594
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.25097999535501,
+        "avg_search_time_ms": 2.807479992043227,
+        "avg_embedding_time_ms": 15.443200001027435
+      }
+    ]
+  },
+  "collection_0051_50000pages": {
+    "num_documents": 50000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 25.250560010317713,
+        "avg_search_time_ms": 3.5230399924330413,
+        "avg_embedding_time_ms": 21.727140026632696
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.249740009196103,
+        "avg_search_time_ms": 2.9221200151368976,
+        "avg_embedding_time_ms": 15.327319991774857
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.93006000900641,
+        "avg_search_time_ms": 2.7714600088074803,
+        "avg_embedding_time_ms": 16.158299997914582
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.70296001341194,
+        "avg_search_time_ms": 2.706960018258542,
+        "avg_embedding_time_ms": 14.99569999286905
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.836799985729158,
+        "avg_search_time_ms": 3.1245799851603806,
+        "avg_embedding_time_ms": 15.711899998132141
+      }
+    ]
+  },
+  "collection_0052_51000pages": {
+    "num_documents": 51000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 22.66842001117766,
+        "avg_search_time_ms": 3.1997199985198677,
+        "avg_embedding_time_ms": 19.468180008698255
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 22.062859998550266,
+        "avg_search_time_ms": 3.8638400030322373,
+        "avg_embedding_time_ms": 18.198580003809184
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.36044001299888,
+        "avg_search_time_ms": 3.203400003258139,
+        "avg_embedding_time_ms": 14.156740007456392
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.74525998812169,
+        "avg_search_time_ms": 3.4145600046031177,
+        "avg_embedding_time_ms": 16.330299980472773
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.029319984838367,
+        "avg_search_time_ms": 2.801560005173087,
+        "avg_embedding_time_ms": 16.227299987804145
+      }
+    ]
+  },
+  "collection_0053_52000pages": {
+    "num_documents": 52000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 26.26988000702113,
+        "avg_search_time_ms": 3.7522400030866265,
+        "avg_embedding_time_ms": 22.517360001802444
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.26874000253156,
+        "avg_search_time_ms": 2.815040003042668,
+        "avg_embedding_time_ms": 15.453359996899962
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 18.196920002810657,
+        "avg_search_time_ms": 2.692219999153167,
+        "avg_embedding_time_ms": 15.504400013014674
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.649239990394562,
+        "avg_search_time_ms": 2.927420020569116,
+        "avg_embedding_time_ms": 16.721339989453554
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.55048000672832,
+        "avg_search_time_ms": 3.3906999975442886,
+        "avg_embedding_time_ms": 16.159460006747395
+      }
+    ]
+  },
+  "collection_0054_53000pages": {
+    "num_documents": 53000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 20.743340020999312,
+        "avg_search_time_ms": 3.395259997341782,
+        "avg_embedding_time_ms": 17.347640020307153
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 17.7284799865447,
+        "avg_search_time_ms": 2.7602599700912833,
+        "avg_embedding_time_ms": 14.967900014016777
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.773719993419945,
+        "avg_search_time_ms": 3.1271200045011938,
+        "avg_embedding_time_ms": 14.646359987091273
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.62801998015493,
+        "avg_search_time_ms": 3.0525799957104027,
+        "avg_embedding_time_ms": 16.575060004834086
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.03755998844281,
+        "avg_search_time_ms": 2.957880008034408,
+        "avg_embedding_time_ms": 15.079319977667183
+      }
+    ]
+  },
+  "collection_0055_54000pages": {
+    "num_documents": 54000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 24.944499984849244,
+        "avg_search_time_ms": 4.040899989195168,
+        "avg_embedding_time_ms": 20.9031599923037
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 18.346280010882765,
+        "avg_search_time_ms": 2.892240008804947,
+        "avg_embedding_time_ms": 15.45371999964118
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.600459991488606,
+        "avg_search_time_ms": 2.7192599955014884,
+        "avg_embedding_time_ms": 16.88085999339819
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.821060004644096,
+        "avg_search_time_ms": 3.071380010806024,
+        "avg_embedding_time_ms": 14.749339991249144
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 18.639539985451847,
+        "avg_search_time_ms": 3.1550799845717847,
+        "avg_embedding_time_ms": 15.484100009780377
+      }
+    ]
+  },
+  "collection_0056_55000pages": {
+    "num_documents": 55000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 26.083140016999096,
+        "avg_search_time_ms": 3.3895800122991204,
+        "avg_embedding_time_ms": 22.693140001501888
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.583840016275644,
+        "avg_search_time_ms": 3.0180000350810587,
+        "avg_embedding_time_ms": 16.565479978453368
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.916440009139478,
+        "avg_search_time_ms": 2.629399998113513,
+        "avg_embedding_time_ms": 15.286680008284748
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 19.267220015171915,
+        "avg_search_time_ms": 2.88438000716269,
+        "avg_embedding_time_ms": 16.382480005268008
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 25.93578000087291,
+        "avg_search_time_ms": 3.1864199903793633,
+        "avg_embedding_time_ms": 22.74898000760004
+      }
+    ]
+  },
+  "collection_0057_56000pages": {
+    "num_documents": 56000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 19.569459999911487,
+        "avg_search_time_ms": 2.995120012201369,
+        "avg_embedding_time_ms": 16.574039997067302
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.36283999821171,
+        "avg_search_time_ms": 2.683919994160533,
+        "avg_embedding_time_ms": 16.67860000161454
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.899240019731224,
+        "avg_search_time_ms": 2.6819600025191903,
+        "avg_embedding_time_ms": 17.216880014166236
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 17.278780008200556,
+        "avg_search_time_ms": 2.7782399905845523,
+        "avg_embedding_time_ms": 14.500240026973188
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 19.335059984587133,
+        "avg_search_time_ms": 3.4312799922190607,
+        "avg_embedding_time_ms": 15.903339989017697
+      }
+    ]
+  },
+  "collection_0058_57000pages": {
+    "num_documents": 57000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 26.437680004164577,
+        "avg_search_time_ms": 4.540179995819926,
+        "avg_embedding_time_ms": 21.896960004232824
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.02785998536274,
+        "avg_search_time_ms": 2.704100008122623,
+        "avg_embedding_time_ms": 16.32341998629272
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 19.5538199855946,
+        "avg_search_time_ms": 2.812120004091412,
+        "avg_embedding_time_ms": 16.741379990708083
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 18.99110001977533,
+        "avg_search_time_ms": 3.0138200032524765,
+        "avg_embedding_time_ms": 15.976920013781637
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 21.107379987370223,
+        "avg_search_time_ms": 2.896659984253347,
+        "avg_embedding_time_ms": 18.21020001079887
+      }
+    ]
+  },
+  "collection_0059_58000pages": {
+    "num_documents": 58000,
+    "queries": [
+      {
+        "query": "딥러닝 모델의 성능 향상 방법",
+        "avg_total_time_ms": 30.726920010056347,
+        "avg_search_time_ms": 3.9011199958622456,
+        "avg_embedding_time_ms": 26.825200021266937
+      },
+      {
+        "query": "자연어 처리 기술",
+        "avg_total_time_ms": 19.06782001024112,
+        "avg_search_time_ms": 3.754580020904541,
+        "avg_embedding_time_ms": 15.312839986290783
+      },
+      {
+        "query": "컴퓨터 비전 알고리즘",
+        "avg_total_time_ms": 17.984199977945536,
+        "avg_search_time_ms": 2.793139999266714,
+        "avg_embedding_time_ms": 15.190779988188297
+      },
+      {
+        "query": "강화학습 기법",
+        "avg_total_time_ms": 20.357100025285035,
+        "avg_search_time_ms": 3.3483200008049607,
+        "avg_embedding_time_ms": 17.008440021891147
+      },
+      {
+        "query": "신경망 아키텍처",
+        "avg_total_time_ms": 20.43408000608906,
+        "avg_search_time_ms": 2.984700014349073,
+        "avg_embedding_time_ms": 17.44901998899877
+      }
+    ]
+  }
+}
