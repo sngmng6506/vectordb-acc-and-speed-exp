@@ -55,8 +55,3 @@ The benchmarking is conducted through a structured four-stage pipeline:
 ---
 
 
-
-
----
-
-**Would you like me to help you draft a "Discussion" section that explains how to interpret common results (e.g., why Recall might drop at specific scales)?**
