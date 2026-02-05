@@ -48,7 +48,7 @@ The benchmarking is conducted through a structured four-stage pipeline:
 ## 🧰 Technical Ecosystem
 
 * **Vector Engine**: ChromaDB (utilizing HNSW)
-* **Embeddings**: `Sentence-Transformers` (SBERT) for high-quality semantic representation.
+* **Embeddings**: `Sentence-Transformers` (SBERT) 
 * **Data Source**: arXiv Open Access via `requests` and `PyPDF2`.
 * **Analysis**: `Pandas` for data aggregation and `Matplotlib/Seaborn` for performance visualization.
 
