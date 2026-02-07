@@ -53,5 +53,8 @@ The benchmarking is conducted through a structured four-stage pipeline:
 * **Analysis**: `Pandas` for data aggregation and `Matplotlib/Seaborn` for performance visualization.
 
 ---
+## 🧰 Results
+https://velog.io/@sngmng6506/VectorDB-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8
+
 
 
